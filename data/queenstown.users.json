@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66515345cbeeb1a5e37ac2c9"
+  },
+  "username": "admin",
+  "password": "admin",
+  "email": "admin@gmail.com",
+  "phone": "123456798",
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjUxNTM0NWNiZWViMWE1ZTM3YWMyYzkiLCJ1c2VybmFtZSI6ImFkbWluIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJwaG9uZSI6IjEyMzQ1Njc5OCIsImlhdCI6MTcxNzIxNDA4NX0.jdPJIImCmgGOUY4fA-DVTdBjCz_FRpWgfdMeMTFWtN8",
+  "role": 0
+},
+{
+  "_id": {
+    "$oid": "6651c3db09366c02dec1f4f3"
+  },
+  "username": "joe",
+  "password": "123123",
+  "email": "123@gmail.com",
+  "phone": "123456",
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjUxYzNkYjA5MzY2YzAyZGVjMWY0ZjMiLCJ1c2VybmFtZSI6ImpvZSIsImVtYWlsIjoiMTIzQGdtYWlsLmNvbSIsInBob25lIjoiMTIzNDU2IiwiaWF0IjoxNzE3MjEzNTg0fQ.p6xB7hetGVmQLkC1CGYlDxloM4AA8uaRvXLnSi-QtoE",
+  "role": 1
+}]
